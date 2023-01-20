@@ -1,0 +1,8 @@
+https://github.com/Pradipta313/first.gitecho "# first" >> README.md 
+git init 
+git add README.md 
+git commit -m "first commit" 
+git branch -M main 
+git remote add origin https://github.com/Pradipta313/first.git
+ git push - kamu asal utama 
+public git add - Welcome in github 
